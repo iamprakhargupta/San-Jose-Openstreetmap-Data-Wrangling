@@ -1,0 +1,9 @@
+https://stackoverflow.com/
+https://docs.python.org/
+https://mapzen.com/data/metro-extracts/metro/san-jose_california/
+https://www.timeanddate.com/worldclock/dialingcodes.html?p1=1794&p2=283&number=
+http://mentalfloss.com/article/53384/what%E2%80%99s-deal-those-last-4-digits-zip-codes
+https://www.openstreetmap.org/#map=10/37.2970/-121.5775
+https://github.com/
+https://regex101.com/
+https://www.tutorialspoint.com/python/python_reg_expressions.htm
